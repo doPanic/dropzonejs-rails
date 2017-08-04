@@ -1,6 +1,6 @@
 # dropzonejs-rails
 
-Integrate [Matias Meno's Dropzone](http://www.dropzonejs.com/) awesome file upload JS library right into the Asset pipeline of your Rails apps.
+This is a fork from ncuesta/dropzonejs-rails with a 300s instead of 30s timeout.
 
 ## Version
 
